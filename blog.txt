@@ -3,3 +3,7 @@ welcome to my blog
 
 blog1
 blog2
+blo3
+blog4
+
+done my changes
